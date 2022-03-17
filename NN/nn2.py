@@ -1,3 +1,5 @@
+# Ref: https://www.kaggle.com/mbnhmd/models-comparison-on-true-fake-news-dataset#Run-to-install-necessary-packages-for-the-task
+
 from sklearn import model_selection, metrics, svm
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
